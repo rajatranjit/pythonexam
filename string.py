@@ -1,4 +1,4 @@
-#modified by Rajat Ranjit
+#modified by karma wnagel sherpa
 # my_string = "unlimited"
 # print(my_string{0})
 # print(my_string{2:})
